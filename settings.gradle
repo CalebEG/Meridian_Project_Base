@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':birdsurvey'
 rootProject.name='Meridian_V2'
